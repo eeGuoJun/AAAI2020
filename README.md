@@ -9,7 +9,7 @@ Please cite our work if you find these resources helpful.
         title = {Preserving Ordinal Consensus: Towards Feature Selection for Unlabeled Data},
         booktitle = {Proc. AAAI Conf. Artificial Intell. (AAAI)},  
         address = {New York City, New York},  
-        pages = {}, 
+        pages = {75-82}, 
         month = {Feb.},
         year = {2020}
     }
