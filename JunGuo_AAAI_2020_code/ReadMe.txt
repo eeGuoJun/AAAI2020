@@ -12,7 +12,7 @@ Please kindly cite our work for triplet-induced graphs if you find the code help
     title = {Preserving Ordinal Consensus: Towards Feature Selection for Unlabeled Data},
     booktitle = {Proc. AAAI Conf. Artificial Intell. (AAAI)},  
     address = {New York City, New York},  
-    pages = {}, 
+    pages = {75-82}, 
     month = {Feb.},
     year = {2020}
 }
